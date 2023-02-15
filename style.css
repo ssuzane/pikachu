@@ -10,12 +10,13 @@ body{
     padding: 70px 70px 24px 70px;
     background-color: #f5cf06;
     color: #8e4106;
+    font-family: 'Righteous', cursive;
 }
 .logo{
     display: flex;
     align-items: center;
     gap: 24px;
-    font-family: 'Righteous', cursive;
+    
     
 }
 .logo__text{
